@@ -133,11 +133,11 @@
 	letter-spacing:-1.5;
 }
 .e8_53 { 
-	width:250px;
-	height:190px;
+	width:200px;
+	height:150px;
 	position:absolute;
 	left:20px;
-	top:10px;
+	top:0px;
 	background-image:url(images/olo_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -165,10 +165,10 @@
 }
 .e7_149 { 
 	width:280px;
-	height:104px;
+	height:200px;
 	position:absolute;
 	left:85px;
-	top:91px;
+	top:20px;
 	background-image:url(images/olo_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
